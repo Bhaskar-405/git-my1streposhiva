@@ -1,0 +1,6 @@
+Class shiva{
+Public static void main(){
+
+System.out.println("Om Namha:Shivaya:Namah:");
+}
+}
